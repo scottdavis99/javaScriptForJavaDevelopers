@@ -1,0 +1,12 @@
+$ javac JavaScope.java
+JavaScope.java:10: cannot find symbol
+symbol  : variable i
+location: class JavaScope
+    System.out.println(i);
+                       ^
+JavaScope.java:11: cannot find symbol
+symbol  : variable message
+location: class JavaScope
+    System.out.println(message);
+                       ^
+2 errors
