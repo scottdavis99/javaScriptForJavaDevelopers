@@ -1,5 +1,0 @@
-$ javac JavaScope.java
-JavaScope.java:6: name is already defined in main(java.lang.String[])
-      String name = "Venkat";
-             ^
-1 error
